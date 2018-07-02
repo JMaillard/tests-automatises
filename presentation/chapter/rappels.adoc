@@ -14,11 +14,12 @@ Ces tests ont pour but de vérifier la conformité de l'application développée
 
 * L'écriture de tests fonctionnels automatisés représente un effort important
 
-=== Les tests d'acceptations
+=== Les tests d'acceptation
 
 * Que pouvez-vous accepter pour valider une fonctionnalité ?
 
 image::images/AcceptanceVsIntegrationTests.jpg[width=650]
 
 === Pyramide des tests
+
 image::images/pyramide-test.png[]

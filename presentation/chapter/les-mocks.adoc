@@ -79,7 +79,7 @@ user.getLogin() // retourne user1
 ....
 verify(user).getLogin();
 
-//le test passes si getLogin() est appelée avant la fin du timeout
+//le test passe si getLogin() est appelée avant la fin du timeout
 
 verify(mock, timeout(100)).getLogin();
 ....

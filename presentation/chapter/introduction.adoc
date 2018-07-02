@@ -5,19 +5,17 @@
 
 === Déroulement du cours
 
-[%step]
 * N'hésitez pas à interrompre ou à intervenir
 * Merci de ne pas faire de bruit :)
 * Le planning :
-[%step]
 ** Mardi 3 juillet de 8h à 12h
 ** Mardi 10 juillet de 8h à 10h
 
-=== Le contrôle continue
+=== Le contrôle continu
 
-* Comment ? un questionnaire à choix multiples
-* Quand ? La dernière heure avec Richard
+* Comment ? Un questionnaire à choix multiples
+* Quand ? La dernière heure avec Richard Liot
 
 === Les sources
 
-** https://github.com/JMaillard/tests-automatises
+* https://github.com/JMaillard/tests-automatises

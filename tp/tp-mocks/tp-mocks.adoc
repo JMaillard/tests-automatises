@@ -11,12 +11,12 @@
 
 == Le composant à tester
 
-* Le classe Order représente une commande avec une liste de produits :
+* La classe Order représente une commande avec une liste de produits.
 
 == Mes premiers Mocks
 
 . Ajoutez un nouveau dossier de sources nommé tests au même niveau d’arborescence que src.
-. Dans l’explorateur de paquets, faites un clic droit sur la classe Order.
+. Dans l’explorateur, faites un clic droit sur la classe Order.
 . Dans le menu contextuel, cliquez sur New – JUnit Test Case.
 . Sélectionnez le bouton radio New JUnit 4 test.
 . Changez le dossier Source folder pour tests.
@@ -34,13 +34,13 @@ Mockito.when(product1.getPrice()).thenReturn(new BigDecimal("3.99"));
 
 == Utiliser des Mocks partiels (Spy)
 
-* Refactorer la classe pour utiliser
+* Refactoriser la classe pour utiliser
 ** @Mock et @RunWith(MockitoJUnitRunner.class)
 
 Lorsque l’on utilise un Spy, il est conseillé d’utiliser la forme doReturn() | doThrow() | doAnswer() , selon la documentation de Mockito.
 
 . Maintenant, nous allons faire un autre test unitaire sur la méthode formatTotalPrice(). Cette méthode, vous l’aurez remarqué, fait appel à getTotalPrice() testé précédemment.
-.. Dans ce test ne ne doit rien voir sur le product
-.. Vérifier qu'on appel 1 seule fois getTotalPrice
+.. Dans ce test on ne doit rien voir apparaitre sur la classe Product
+.. Vérifier lors du test qu'on appel une seule fois la méthode getTotalPrice.
 
 

@@ -16,8 +16,8 @@
 [width="90%",frame="topbot",cols="40,180",options="header"]
 |======================
 |JUnit 4	| La description
-|@BeforeClass |Exécuté une fois, avant le début de tous les tests.
-|@AfterClass |Exécuté une fois, après tous les tests ont été terminés. Il est utilisé pour effectuer des opérations de nettoyage etc.
+|@BeforeClass | La méthode est exécutée une fois avant le début de tous les tests.
+|@AfterClass | La méthode est exécutée une fois tous les tests joués.
 |@Ignore or @Ignore("Why disabled") |Marque que le test doit être désactivé.
 |@Test (expected = Exception.class) |Échec si la méthode ne lance pas l'exception nommée.
 |@Test(timeout=100) |Échoue si la méthode prend plus de 100 millisecondes.

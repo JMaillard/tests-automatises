@@ -1,0 +1,23 @@
+[data-background="{title_bg}"]
+== Introduction
+
+* Qui suis-je ?
+
+=== Déroulement du cours
+
+[%step]
+* N'hésitez pas à interrompre ou à intervenir
+* Merci de ne pas faire de bruit :)
+* Le planning :
+[%step]
+** Mardi 3 juillet de 8h à 12h
+** Mardi 10 juillet de 8h à 10h
+
+=== Le contrôle continue
+
+* Comment ? un questionnaire à choix multiples
+* Quand ? La dernière heure avec Richard
+
+=== Les sources
+
+** https://github.com/JMaillard/tests-automatises

@@ -115,8 +115,7 @@ public class RunCucumberTest { }
 == Exécuter RunCucumberTest
 
 * Exécutez les scénarii en faisant Run As -> JUnit Test sur RunCucumberTest
-
-* Le fichier contenant les steps n'existe pas encore donc quand on lance
+* Le fichier contenant les steps n'existe pas encore, regardez dans la console.
 
 == Implémenter le code de test des steps
 

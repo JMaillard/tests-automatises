@@ -7,10 +7,8 @@ Le Gherkin est une syntaxe utilisée pour faire du BDD (“Behaviour-Driven Deve
 
 === Un langage commun
 
-* c'est un langage naturel,
-* facile la compréhension et l'utilisation
-* explique le déroulement d'une fonctionnalité
-* existe dans plus de 60 langues
+* C'est un langage naturel ce qui simplifie sa compréhension et son utilisation
+* On explique le déroulement d'une fonctionnalité et il existe dans plus de 60 langues
 
 === Le scénario au coeur du langage Gherkin
 
@@ -48,10 +46,10 @@ Scenario:
 === Ecrire un scénario paramétré
 
 * à l'aide du mot clé Scenario Outline on va pouvoir paramétrer de tels scénarii
-* des tableau d'exemples sont là pour faciliter l'écriture/lecture de ce scénario.
+* des tableaux d'exemples sont là pour faciliter l'écriture/lecture de ce scénario.
 
 * Remarques :
-** Un même scénario paramétré peut être composé de plusieurs tables d'exemples
+** Un même scénario paramétré peut être composé de plusieurs tableeaux d'exemples
 
 === Un exemple de Scenario Outline
 

@@ -3,7 +3,7 @@
 
 === Une seule source de vérité
 
-* Le concombre fusionne la spécification et la documentation de test en un seul ensemble cohérent.
+* Cucumber fusionne la spécification et la documentation de test en un seul ensemble cohérent.
 
 === Documentation vivante
 

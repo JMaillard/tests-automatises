@@ -95,7 +95,7 @@ Une fois, le pom.xml modifié, n'oubliez pas de relancer Maven -> Update Project
 
 * Créer un nouveau Source Folder que vous appelerez src/test/features et créer un fichier cocktail.feature
 
-== Ecriture du runner Cucumbers
+== Ecriture du runner Cucumber
 
 Création d'un fichier RunCucumberTest.java dans le package src/test/java/com/bdx/iut/acceptance/tests
 Implémenter ce fichier de manière à ce qu'il devienne le lanceur des tests Cucumber :

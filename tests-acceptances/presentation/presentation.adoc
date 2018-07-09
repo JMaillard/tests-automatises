@@ -1,4 +1,4 @@
-= Tests automatisés
+= Tests d'acceptance
 ISC France / Expertise iscfrance.expert@sqli.com
 :backend: revealjs
 :cssimagedir: reveal.js/css/theme/image

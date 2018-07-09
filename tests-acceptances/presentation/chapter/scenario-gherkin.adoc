@@ -49,7 +49,7 @@ Scenario:
 * des tableaux d'exemples sont là pour faciliter l'écriture/lecture de ce scénario.
 
 * Remarques :
-** Un même scénario paramétré peut être composé de plusieurs tableeaux d'exemples
+** Un même scénario paramétré peut être composé de plusieurs tableaux d'exemples
 
 === Un exemple de Scenario Outline
 

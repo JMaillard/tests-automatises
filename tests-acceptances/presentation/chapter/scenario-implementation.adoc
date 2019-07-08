@@ -49,13 +49,8 @@ public class MyServiceSteps {
 
 ....
 
-=== Exemple de rapport
-
-* Présenter un exemple de rapport sous /home/jmaillard/Documents/tmp
-* cucumber-html-reports.zip
-
 === TP
 
-ouvrir le pdf tp/tp-cucumber/tp-cucumber.pdf
+ouvrir le pdf tp/tp-cucumber/cucumber.pdf
 
 image::images/tp.png[width=650]
